@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1654641196 source:d:\santiago\utn\programación i\santiago_2022\tp\tp2022_base\main.c
+	<stdio.h>
+	<windows.h>
+
+1656296278 source:c:\users\mateo\downloads\tp_2022\tp2022_base\tp2022_base\main.c
+	<stdio.h>
+	<windows.h>
+
+1656357540 source:c:\users\mateo\downloads\tp_2022\tp2022_base-m\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656358131 source:c:\users\mateo\downloads\tp_2022\tp2022_v2\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656541423 source:c:\users\mateo\downloads\tp2022_v2_m\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656548334 source:c:\users\emi\onedrive\documents\tp2022_v2_m (1)\tp2022_v2_m\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656650547 source:c:\users\mateo\downloads\tp2022_5\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656634210 source:c:\users\emi\onedrive\documents\tp2022_5\tp2022_5\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656721476 source:c:\users\nicoo\onedrive\escritorio\tp2022_v6.0\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656776867 source:c:\users\nicoo\onedrive\escritorio\tp2022_v6. formateado\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656776867 source:c:\users\nicoo\onedrive\escritorio\tp. fixture emi-mateo-nicolas\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656786710 source:c:\users\mateo\downloads\tp. fixture emi-mateo-nicolas\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656789578 source:c:\users\emi\onedrive\documents\tpfixture-emi-mateo-nicolas\tpfixture-emi-mateo-nicolas\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656803963 source:c:\users\mateo\downloads\tp quatar - laboratorio programacion 1 - grupo 7\tpfixture-emi-mateo-nicolas\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656805277 source:c:\users\emi\onedrive\documents\tp mundial - laboratorio programacion 1 - grupo 7\tp quatar - laboratorio programacion 1 - grupo 7\tpfixture-emi-mateo-nicolas\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656805277 source:c:\users\emi\onedrive\documents\tp mundial - laboratorio programacion 1 - grupo 7\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1656805277 source:c:\users\mateo\downloads\tp mundial - laboratorio programacion 1 - grupo 7\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1657687285 source:c:\users\mateo\desktop\tp mundial - laboratorio programacion 1 - grupo 7\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
